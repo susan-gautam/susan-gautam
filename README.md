@@ -43,13 +43,6 @@
 </a>
 </p>
 
-### Database
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-</a>
-</p>
-
 ### DevOps & Development Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
