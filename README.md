@@ -20,6 +20,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
 </a>
 </p>
+
 ### Frameworks & Libraries
 <p align="left">
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -41,12 +42,14 @@
 <img src="https://cdn.simpleicons.org/gradio/FF7C00" width="40" height="40"/>
 </a>
 </p>
+
 ### Database
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
 </a>
 </p>
+
 ### DevOps & Development Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -65,6 +68,7 @@
 <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
 </a>
 </p>
+
 ### AI & Automation Tools
 <p align="left">
 <a href="https://ollama.ai/" target="_blank" rel="noreferrer">
