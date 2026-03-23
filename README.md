@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Susan and I'm  AI Automation Enthusiast and practitioner from Nepal</h2>
+<h2 align="left">Hi 👋! My name is Susan and I'm  AI Enthusiast and Automation practitioner from Nepal</h2>
 
 # 💻 Tech Stack:
 
