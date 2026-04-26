@@ -4,21 +4,9 @@
 
 ### Programming Languages
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 </p>
 
 ### Frameworks & Libraries
